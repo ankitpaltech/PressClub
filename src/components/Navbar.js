@@ -2,11 +2,11 @@ import React, { Component } from 'react'
 // import PropTypes from 'prop-types'
 
 export default class Navbar extends Component {
-//   static propTypes = {
+//   static propTypes this = {
 //     prop: PropTypes
 //   }
 
-  render() {
+  render()  {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
