@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PressClub/static/css/main.e6c13ad2.css",
+    "main.js": "/PressClub/static/js/main.3afa0aea.js",
+    "static/js/787.4c026eef.chunk.js": "/PressClub/static/js/787.4c026eef.chunk.js",
+    "static/media/Loading.gif": "/PressClub/static/media/Loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/PressClub/index.html",
+    "main.e6c13ad2.css.map": "/PressClub/static/css/main.e6c13ad2.css.map",
+    "main.3afa0aea.js.map": "/PressClub/static/js/main.3afa0aea.js.map",
+    "787.4c026eef.chunk.js.map": "/PressClub/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3afa0aea.js"
+  ]
+}
